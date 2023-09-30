@@ -27,6 +27,8 @@
 
 <br/>  
 
+This is *red*{: style="color: red"}.
+
 ### My projects:   
 <table>
       <thead>
