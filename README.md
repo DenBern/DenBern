@@ -4,7 +4,7 @@
 
 ### About me:  
 
-<ul align="start">
+<div align="start">
 <li>👨‍🎓 Aimed at gaining and developing skills and achieving results</li>
 <li>👨‍💻 I continue to learn new technologies</li>
 </div>  
