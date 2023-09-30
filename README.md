@@ -5,7 +5,8 @@
 ### About me:  
 
 <div align="start">
-<li>👨‍🎓 Aimed at gaining and developing skills and achieving results</li>
+<li>👨‍🎓I'm continuing my education on the platform <a href="https://www.udemy.com/">Udemy</a> and <a href="https://rs.school/">RSSchool</a></li>
+<li>💻 Aimed at gaining and developing skills and achieving results</li>
 <li>👨‍💻 I continue to learn new technologies</li>
 </div>  
 
