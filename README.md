@@ -28,12 +28,9 @@
 
 ### My projects: 
 <div align="start">
-  <div style="display: flex; gap: 10;">
-    <div>Deploy: <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></div>
-    <div>
-      <span style="color: red">Library</span>
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
-    </div>
+  <div>
+    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></div>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
   </div>
   <div>
     <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a>
