@@ -1,7 +1,5 @@
 ###  <div align="center">👋Hi! I'm Denis. Beginner front-end developer.</div>  
 
-<br/>  
-
 ### About me:  
 
 <div align="start">
