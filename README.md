@@ -1,11 +1,8 @@
 ### <div align="center">Hi!👋 I'm Denis. Beginner front-end developer.</div>  
-  
 
 <br/>  
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### My skills:  
 <div align="center">  
@@ -22,17 +19,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-
-
 <br/>  
-
-
 
 ### My contacts:  
 <div align="center">
