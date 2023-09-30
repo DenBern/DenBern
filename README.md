@@ -5,7 +5,8 @@
 ### About me:  
 
 <div align="start">
-<span></span>
+<span>👨‍🎓 Aimed at gaining and developing skills and achieving results</span>
+<span>👨‍💻 I continue to learn new technologies</span>
 </div>  
 
 <br/>  
