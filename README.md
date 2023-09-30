@@ -29,7 +29,7 @@
 ### My projects: 
 <div align="start">
   <div>
-    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></div>
+    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
   </div>
   <div>
