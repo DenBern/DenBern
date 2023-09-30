@@ -27,8 +27,6 @@
 
 <br/>  
 
-<span>This is *red*{: style="color: red"}.</span>
-
 ### My projects:   
 <table>
       <thead>
