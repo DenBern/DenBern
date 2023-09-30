@@ -66,7 +66,7 @@
               <td>GitHub Search</td>
               <td><a href="https://denbern.github.io/GitHubSearch/">GitHub Search</a></td>
               <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a></td>
-              <td>- - -</td>
+              <td align="center">- - -</td>
           </tr>
       </tbody>
   </table>
