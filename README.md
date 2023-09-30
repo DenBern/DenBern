@@ -29,7 +29,7 @@
 
 ### My projects:   
 <table>
-      <thead>
+      <thead color="red">
           <tr>
               <th>Title</th>
               <th>Deploy</th>
