@@ -13,7 +13,7 @@
 
 ### My skills:  
 <div align="start">  
-      <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35"/>
+      <img margin="20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35"/>
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35"/>
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35"/>  
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35"/> 
