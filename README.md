@@ -27,8 +27,8 @@
 <br/>  
 
 ### My projects: 
-<div align="start" display="flex" gap="20px">
-<div style="display: flex align-items: center">
+<div align="start">
+<div padding="10px">
   <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
 </div>
