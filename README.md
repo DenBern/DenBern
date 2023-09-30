@@ -29,8 +29,10 @@
 ### My projects: 
 <div align="start">
   <div padding="10px">
-    <span>Deploy: <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></span>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
+    <div>Deploy: <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></div>
+    <div>
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
+    </div>
   </div>
   <div>
     <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a>
