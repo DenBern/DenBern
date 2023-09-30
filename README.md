@@ -39,7 +39,7 @@
           <tr>
               <td>Library</td>
               <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></td>
-              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+              <td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
           </tr>
           <tr>
               <td>Audio player</td>
