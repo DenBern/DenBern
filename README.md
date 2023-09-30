@@ -44,22 +44,22 @@
           <tr>
               <td>Audio player</td>
               <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a></td>
-              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+              <td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
           </tr>
           <tr>
               <td>Photo gallery</td>
               <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-2.2-images-gallery/">Photo gallery</a></td>
-              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+              <td align="center"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
           </tr>
           <tr>
               <td>NASA Images Library</td>
               <td><a href="https://denbern.github.io/NASAImagesLibrary/" style="margin: 10px">NASA Images Library</a></td>
-              <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
           </tr>
           <tr>
               <td>GitHub Search</td>
               <td><a href="https://denbern.github.io/GitHubSearch/" style="margin: 10px">GitHub Search</a></td>
-              <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
           </tr>
       </tbody>
   </table>
