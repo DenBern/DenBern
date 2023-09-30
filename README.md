@@ -44,6 +44,10 @@
     <a href="https://denbern.github.io/NASAImagesLibrary/" style="margin: 10px">NASA Images Library</a>
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a> 
   </div>
+  <div>
+    <a href="https://denbern.github.io/GitHubSearch/" style="margin: 10px">GitHub Search</a>
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a> 
+  </div>
 </div>
 
 <br/>  
