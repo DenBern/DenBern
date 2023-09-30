@@ -1,5 +1,11 @@
 ### <div align="center">Hi!👋 I'm Denis. Beginner front-end developer.</div>  
 
+<br/>  
+
+### About me:  
+
+<br/>  
+
 ### My skills:  
 <div align="start">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
