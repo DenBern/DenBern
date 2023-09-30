@@ -26,29 +26,43 @@
 
 <br/>  
 
-### My projects: 
-<div align="start">
-  <div>
-    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/>
-  </div>
-  <div>
-    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></a>
-  </div>
-  <div>
-    <a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-2.2-images-gallery/">Photo gallery</a>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></a>
-  </div>
-  <div>
-    <a href="https://denbern.github.io/NASAImagesLibrary/" style="margin: 10px">NASA Images Library</a>
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a> 
-  </div>
-  <div>
-    <a href="https://denbern.github.io/GitHubSearch/" style="margin: 10px">GitHub Search</a>
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a> 
-  </div>
-</div>
+### My projects:   
+<table>
+      <thead>
+          <tr>
+              <th>Title</th>
+              <th>Deploy</th>
+              <th>Technology</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>Library</td>
+              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></td>
+              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+          </tr>
+          <tr>
+              <td>Audio player</td>
+              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a></td>
+              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+          </tr>
+          <tr>
+              <td>Photo gallery</td>
+              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-2.2-images-gallery/">Photo gallery</a></td>
+              <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
+          </tr>
+          <tr>
+              <td>NASA Images Library</td>
+              <td><a href="https://denbern.github.io/NASAImagesLibrary/" style="margin: 10px">NASA Images Library</a></td>
+              <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
+          </tr>
+          <tr>
+              <td>GitHub Search</td>
+              <td><a href="https://denbern.github.io/GitHubSearch/" style="margin: 10px">GitHub Search</a></td>
+              <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/></a> </td>
+          </tr>
+      </tbody>
+  </table>
 
 <br/>  
 
