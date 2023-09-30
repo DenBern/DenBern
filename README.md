@@ -2,7 +2,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 ### My skills:  
 <div align="center">  
