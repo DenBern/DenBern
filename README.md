@@ -5,7 +5,7 @@
 ### About me:  
 
 <div align="start">
-<span>I'm 28 years old.</span>
+<span></span>
 </div>  
 
 <br/>  
