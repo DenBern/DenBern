@@ -27,8 +27,9 @@
 <br/>  
 
 ### My projects: 
-<div align="start">
-</div>
+<ul align="start">
+<li>1</li>
+</ul>
 
 <br/>  
 
