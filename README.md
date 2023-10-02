@@ -51,7 +51,7 @@
           </tr>
           <tr>
               <td>Photo gallery</td>
-              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-2.2-images-gallery/">Photo gallery</a></td>
+              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-2.2-image-gallery/">Photo gallery</a></td>
               <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
               <td><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md">RS School Image gallery</a></td>
           </tr>
