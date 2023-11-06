@@ -57,7 +57,7 @@
           </tr>
           <tr>
               <td>Rock-Paper-Scissors</td>
-              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/rock-paper-scissors/">RPS game</a></td>
+              <td><a href="https://denbern.github.io/RockPaperScissors/rock-paper-scissors/">RPS game</a></td>
               <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
               <td><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-9.md">RS School Random Game</a></td>
           </tr>
