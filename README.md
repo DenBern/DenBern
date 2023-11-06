@@ -45,7 +45,7 @@
           </tr>
           <tr>
               <td>Audio player</td>
-              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/js30-1.2-audio-player/">Audio player</a></td>
+              <td><a href="https://denbern.github.io/AudioPlayer/audio-player/">Audio player</a></td>
               <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
               <td><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md">RS School Audio player</a></td>
           </tr>
