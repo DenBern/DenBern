@@ -39,7 +39,7 @@
       <tbody>
           <tr>
               <td>Library</td>
-              <td><a href="https://rolling-scopes-school.github.io/denbern-JSFEPRESCHOOL2023Q2/library/">Library</a></td>
+              <td><a href="https://denbern.github.io/Library/library/">Library</a></td>
               <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></td>
               <td><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library-draft.md">RS School Libary</a></td>
           </tr>
